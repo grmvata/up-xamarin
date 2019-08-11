@@ -1,0 +1,12 @@
+C:\dev\up-xamarin\ProjetoX\ProjetoX\bin\Debug\netstandard2.0\ProjetoX.deps.json
+C:\dev\up-xamarin\ProjetoX\ProjetoX\bin\Debug\netstandard2.0\ProjetoX.dll
+C:\dev\up-xamarin\ProjetoX\ProjetoX\bin\Debug\netstandard2.0\ProjetoX.pdb
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.csprojAssemblyReference.cache
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.csproj.CoreCompileInputs.cache
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.AssemblyInfoInputs.cache
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.AssemblyInfo.cs
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.dll
+C:\dev\up-xamarin\ProjetoX\ProjetoX\obj\Debug\netstandard2.0\ProjetoX.pdb

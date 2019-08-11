@@ -153,7 +153,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
         "compile": {
@@ -316,7 +315,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
         "compile": {
@@ -479,7 +477,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
         "compile": {
@@ -642,7 +639,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.1.0.555618"
         },
         "compile": {
